@@ -17,49 +17,49 @@
 
 - 코드리뷰 및 동시 편집
 
-  ![코드리뷰](https://lab.ssafy.com/s06-final/S06P31E106/uploads/d8e82c1b2b78f7a0c0d26ec31a01ea06/코드리뷰.gif)
+![코드리뷰](https://user-images.githubusercontent.com/55776650/170498477-1bd99fea-e36e-4c13-ad79-314662eb4ccb.gif)
 
 <br>
 
 - 화상스터디 & 화면공유 & 타이머
 
-![스터디_라이브](https://lab.ssafy.com/s06-final/S06P31E106/uploads/61454321500b63df2e564e6201f85e65/스터디_라이브.gif)
+![스터디_라이브](https://user-images.githubusercontent.com/55776650/170498560-d875e866-e8dd-46af-a5e3-0f04164aea61.gif)
 
 <br>
 
 - 코드 컴파일
 
-![컴파일](https://lab.ssafy.com/s06-final/S06P31E106/uploads/d0aff504437dd5c0f4022a78b31d5593/컴파일.gif)
+![컴파일](https://user-images.githubusercontent.com/55776650/170499469-a83f1154-3c95-4869-bc1e-0f2b12c2c095.gif)
 
 ### 세부기능
 
 - 전체 스터디 주 단위 관리
 
-  ![전체_스터디_주_단위_관리](https://lab.ssafy.com/s06-final/S06P31E106/uploads/c70892357bf25184296d982613063f7c/전체_스터디_주_단위_관리.gif)
+![전체_스터디_주_단위_관리](https://user-images.githubusercontent.com/55776650/170499483-dec72bfa-ace0-4d3e-9a0f-db882dd3ad31.gif)
 
 <br>
 
 - 스터디 일정 관리
 
-![월별_스터디_일정_관리](https://lab.ssafy.com/s06-final/S06P31E106/uploads/b00e03589bffffdc3b8b60bda84cca36/월별_스터디_일정_관리.gif)
+![월별_스터디_일정_관리](https://user-images.githubusercontent.com/55776650/170499486-356ed2ef-5d00-49a4-abe1-3537b6522bf7.gif)
 
 <br>
 
 - 오늘의 문제 추천
 
-![데일리_문제추천](https://lab.ssafy.com/s06-final/S06P31E106/uploads/ec97ba9e3629a211c971a2d2f6e75985/데일리_문제추천.gif)
+![데일리_문제추천](https://user-images.githubusercontent.com/55776650/170499490-79412fc0-440f-473a-977c-7088b0115177.gif)
 
 <br>
 
 - 채팅
 
-![채팅](https://lab.ssafy.com/s06-final/S06P31E106/uploads/8b79d21b8104aac2710a9b7b3c35972f/채팅.gif)
+![채팅](https://user-images.githubusercontent.com/55776650/170499493-f3890b21-bc47-404b-b3a8-35fc44af8e61.gif)
 
 <br>
 
 - 문제 관리 및 스터디 멤버의 코드확인
 
-![문제관리](https://lab.ssafy.com/s06-final/S06P31E106/uploads/23a7149f43c5e063dee5d81a0ad39403/문제관리.gif)
+![문제관리](https://user-images.githubusercontent.com/55776650/170499494-af346e74-f774-43f0-b5f0-1d033b5a0f28.gif)
 
 ### 아키텍쳐
 
